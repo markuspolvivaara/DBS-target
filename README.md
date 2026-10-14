@@ -1,2 +1,2 @@
 # DBS-target
-Repo for dis targeting site
+Repo for DBS targeting site
